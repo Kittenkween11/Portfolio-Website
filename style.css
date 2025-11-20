@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #efeebb;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 15%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    overflow: hidden;
+    background-color: #efeebb;
+}
+
+main {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    background-color: #f6f5df;
+}
+
+footer {
+    text-align: center;
+    background-color: #ffffff;
+}
